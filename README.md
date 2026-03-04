@@ -34,7 +34,7 @@ ForamEcoQS supports a practical analysis workflow:
 - Create an empty dataset.
 - Open existing datasets from Excel or CSV.
 - Save the current dataset to Excel.
-- Create spreadsheet templates from reference databanks.
+- Create spreadsheet templates from reference lists.
 - Add, remove, and rename sample columns.
 - Undo recent data edits.
 - Clean and normalize sample values.
@@ -54,10 +54,10 @@ ForamEcoQS supports a practical analysis workflow:
 - Export result tables to Excel.
 - Export plots to PNG.
 
-### Reference Databank Management
+### Reference Lists Management
 
-- Foram-AMBI Databank Manager.
-- FSI Databank Manager.
+- Foram-AMBI List Manager.
+- FSI List Manager.
 - Geographic Areas Database.
 - User Custom Lists Manager.
 - Ecological-group override support for taxa assignments.
