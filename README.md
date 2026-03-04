@@ -2,6 +2,20 @@
 
 ForamEcoQS is a Windows desktop application for ecological quality assessment based on benthic foraminifera. It targets `.NET 6`, uses Windows Forms for the graphical interface, and can also run in command-line mode. The software calculates multiple biotic and diversity indices from species-by-sample abundance matrices and assigns Ecological Quality Status (EQS) classes where implemented.
 
+## Authors and Affiliations
+
+### Department of Pure and Applied Sciences (DiSPeA), University of Urbino Carlo Bo (UniUrb)
+
+- Matteo Mangiagalli (<m.mangiagalli@campus.uniurb.it>)
+- Fabrizio Frontalini (<fabrizio.frontalini@uniurb.it>)
+- Carla Cristallo (<c.cristallo1@campus.uniurb.it>)
+
+### Department of Geosciences, University of Fribourg (UNIFR)
+
+- Fabio Francescangeli (<fabio.francescangeli@unifr.ch>)
+
+Year: `2026`
+
 ## Overview
 
 ForamEcoQS supports a practical analysis workflow:
