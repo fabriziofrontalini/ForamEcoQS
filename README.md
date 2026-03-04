@@ -44,7 +44,7 @@ ForamEcoQS supports a practical analysis workflow:
 - Compute selected indices from the `Advanced Indices` workflow.
 - Choose threshold systems and reference options from `Index Calculation Settings`.
 - Apply optional EQR calculations for `FSI` and `exp(H'bc)`.
-- Use selected Foram-AMBI databanks for eco-group based indices.
+- Use selected Foram-AMBI lists for eco-group based indices.
 
 ### Visualization and Export
 
