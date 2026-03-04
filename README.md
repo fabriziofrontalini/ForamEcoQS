@@ -343,13 +343,13 @@ ForamEcoQS can produce:
 
 The application includes:
 
-- Selectable Foram-AMBI reference databanks;
-- A Foram-AMBI Databank Manager;
-- An FSI Databank Manager;
+- Selectable Foram-AMBI reference lists;
+- A Foram-AMBI List Manager;
+- An FSI List Manager;
 - A Geographic Areas Database;
 - A User Custom Lists Manager;
 - Taxon-specific ecological-group overrides;
-- Template generation from databanks.
+- Template generation from lists.
 
 ## Notes and Limitations
 
